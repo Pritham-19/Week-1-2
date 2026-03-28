@@ -12,3 +12,4 @@ public class Question3 {
         System.out.println("Side of square = " + side);
     }
 }
+ 
