@@ -17,3 +17,4 @@ public class Question2 {
         System.out.println("Area in sq inches = " + areaIn);
     }
 }
+ 
